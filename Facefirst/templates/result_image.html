@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Face Occlusion Classifier Result</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div class="container">
+    <h1>Face Occlusion Classifier Result</h1>
+    <div class="image">
+        <img src="{{ url_for('static', filename=image) }}" alt="Uploaded Image" width="1024" height="1024">
+    </div>
+    <div class="caption">
+        <h2>Classification Result:</h2>
+        <p>{{ caption }}</p>
+    </div>
+</div>
+</body>
+</html>

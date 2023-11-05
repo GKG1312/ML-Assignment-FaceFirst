@@ -1,0 +1,17 @@
+From folder maskwithsunglasses 
+ Detected 104 faces from 729 images 
+ Detection Accuracy : 0.14266117969821673From folder faces 
+ Detected 3925 faces from 6678 images 
+ Detection Accuracy : 0.5877508235998802From folder sunglasses 
+ Detected 4832 faces from 9393 images 
+ Detection Accuracy : 0.5144256361119983From folder masked 
+ Detected 6159 faces from 11782 images 
+ Detection Accuracy : 0.522746562553047From folder maskwithsunglasses 
+ Detected 670 faces from 729 images 
+ Detection Accuracy : 0.9190672153635117From folder maskwithsunglasses 
+ Detected 200 faces from 729 images 
+ Detection Accuracy : 0.27434842249657065From folder maskwithsunglasses 
+ Detected 1 faces from 729 images 
+ Detection Accuracy : 0.0013717421124828531From folder maskwithsunglasses 
+ Detected 765 faces from 729 images 
+ Detection Accuracy : 1.0493827160493827
