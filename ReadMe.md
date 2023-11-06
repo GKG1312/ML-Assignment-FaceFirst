@@ -46,6 +46,8 @@ In this implementation I have used MTCNN as face detector.
 * Faster-RCNN
 * YOLOv5
 
+Complete Implementation of YOLOv5 id done using its official tutorial for custom data, and the implementation can be found [here](https://github.com/GKG1312/YOLOv5-FaceFirst-implementation)
+
 ## Framework
 All models are written in pytorch first and later converted to ONNX format.
 
